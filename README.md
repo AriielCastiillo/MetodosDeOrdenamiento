@@ -1,3 +1,5 @@
 # MetodosDeOrdenamiento
-Incluye Metodos de Ordenamiento en Java
--Metodo Burbuja
+Incluye Metodos de Ordenamiento en Java:
+
+
+1.- Metodo Burbuja
